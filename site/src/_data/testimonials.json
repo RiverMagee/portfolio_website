@@ -1,0 +1,24 @@
+{
+  "title": "Work Experience",
+  "des": "A brief overview of my professional history.",
+  "opinion":[
+    {
+      "name": "The Lee Strasberg Theatre and Film Institute",
+      "dig": "Intern, January - May 2022",
+      "img": "/assets/images/testimonial/Lee-Strasberg-Logo.jpg",
+      "comment": "Assisted the Production Manager in organizing and cataloging digital information. Graphically designed vibrant and informative institution posters/pamphelts."
+    },
+    {
+      "name": "New York University",
+      "dig": "Assistant Stage Manager, January - March 2022",
+      "img": "/assets/images/testimonial/NYU-logo.jpg",
+      "comment": "Assistant Stage Managed for 6 weeks for NYU's production of Fuente Ovejuna. Ran sound / assisted with props / constructed the set for the show."
+    },
+    {
+      "name": "Shannon River Hedge Fund",
+      "dig": "Intern, June - July 2019",
+      "img": "/assets/images/testimonial/shannon-river-logo.jpg",
+      "comment": "Studied closely with the fund's twelve employees in each department, and diligently shadowed Director of Communications."
+    } 
+  ]
+}

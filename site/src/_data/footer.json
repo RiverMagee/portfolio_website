@@ -1,0 +1,53 @@
+{
+  "footerLogo": "/assets/images/logo-footer.png",
+
+  "contactsHeading": "Contact Info",
+  "contactsInfo":[
+    {
+      "link":"https://www.google.com/maps/place/Brooklyn,+NY/@40.6454199,-74.0850841,11z/data=!3m1!4b1!4m5!3m4!1s0x89c24416947c2109:0x82765c7404007886!8m2!3d40.6781784!4d-73.9441579",
+      "text":"Brooklyn, New York"
+    },
+    {
+      "link":"tel:646-469-2811",
+      "text":"646-469-2811"
+    },
+    {
+      "link":"mailto:rivermagee@gmail.com",
+      "text":"rivermagee@gmail.com"
+    }
+  ],
+
+  "siteMapHeading":"Sitemap",
+  "siteMap":[
+    {
+      "link":"about",
+      "text":"About Me"
+    },
+    {
+      "link":"portfolio",
+      "text":"Projects"
+    }
+  ],
+
+  "socialHeading":"Social Media",
+  "socialMedia":[
+    {
+      "link":"https://www.linkedin.com/in/river-magee",
+      "text":"LinkedIn"
+    },
+    {
+      "link":"#",
+      "text":"Instagram"
+    },
+    {
+      "link": "https://github.com/RiverMagee",
+      "text": "GitHub"
+    }
+  ],
+  
+  "brandHeading":"Let's Work Together",
+  "brandMotto":["Web Development/Design", "Digital Marketing", "User Experience"],
+
+  "back2topIcon":"/assets/images/to-top.svg",
+  "customerComment":"Want to go back up?"
+}

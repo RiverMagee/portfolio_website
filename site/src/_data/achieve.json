@@ -1,0 +1,21 @@
+{
+  "title": "Education Overview",
+  "achievements":[
+    {
+      "title": "Degree",
+      "counter": "Bachelor of Science in Integrative Informatics"
+    },
+    {
+      "title": "Concentrations",
+      "counter": "Media and Visual Production, Marketing and Enterprise"
+    },
+    {
+      "title": "Grade Point Adverage",
+      "counter": "3.85"
+    },
+    {
+      "title": "Honors / Awards",
+      "counter": "Magna Cum Laude Honors"
+    }
+  ]
+}

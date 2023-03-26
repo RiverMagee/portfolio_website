@@ -1,0 +1,35 @@
+{
+  "title": "Awards and Certifications",
+  "teamMembers":[
+    {
+      "name": "MAGNA CUM LAUDE HONORS",
+      "dig": "Awarded for Academic Achievement",
+      "img": "/assets/images/team/graduation-icon.jpeg"
+    },
+    {
+      "name": "Distinguished Alden Scholar",
+      "dig": "Awarded for Academic Achievement",
+      "img": "/assets/images/team/trophy-icon.jpeg"
+    },
+    {
+      "name": "Trustee Scholarship",
+      "dig": "Awarded for Academic Achievement",
+      "img": "/assets/images/team/trophy-icon.jpeg"
+    },
+    {
+      "name": "Software Development with Python",
+      "dig": "Micro-Credential Program",
+      "img": "/assets/images/team/book-icon.jpg"
+    },
+    {
+      "name": "Data Analysis with Python and R",
+      "dig": "Micro-Credential Program",
+      "img": "/assets/images/team/book-icon.jpg"
+    },
+    {
+      "name": "Programming with Web Technologies",
+      "dig": "Micro-Credential Program",
+      "img": "/assets/images/team/book-icon.jpg"
+    }
+  ]
+}
